@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Alclenice/ActiveDirectoryLab)
   -  [Hello World Project](https://github.com/joshmadakor1/Algorithms-Practice)
  
   - <h2>📺 Certifications</h2>
