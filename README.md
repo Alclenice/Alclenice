@@ -3,6 +3,23 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  -  Languages, Frameworks, Tools and Programs Used:
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+-   [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+-   [React](https://reactjs.org/)
+-   [Next.js](https://nextjs.org/)
+-   [Tailwind CSS](https://tailwindui.com/)
+-   [Git](https://git-scm.com/)
+-   [GitHub](https://github.com/)
+-   [GitHub Actions](https://docs.github.com/en/actions)
+-   [AWS](https://aws.amazon.com/)
+-   [Affinity Designer](https://affinity.serif.com/en-gb/designer/)
+-   [Affinity Photo](https://affinity.serif.com/en-gb/photo/)
+-   [Visual Studio Code](https://code.visualstudio.com/)
+-   [Am I Responsive](https://ui.dev/amiresponsive)
+  
   - [Active Directory Home Lab](https://github.com/Alclenice/ActiveDirectoryLab)
   -  [Hello World Project](https://github.com/joshmadakor1/Algorithms-Practice)
  
