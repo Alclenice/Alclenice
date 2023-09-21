@@ -10,7 +10,7 @@
 
 # &#x1f4c8; GitHub Stats
 
-![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiodearaujo&show_icons=true&theme=tokyonight)
+![Alclenice's GitHub stats](https://[github-readme-stats.vercel.app/api?username=fabiodearaujo&show_icons=true&theme=tokyonight](https://github.com/Alclenice?tab=repositories))
 
 <hr>
  
