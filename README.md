@@ -14,7 +14,7 @@ I am a software engineering developer who loves HTML, css with javascript and .n
 
 <a href="https://www.github.com/Alclenice" target="_blank" rel="noreferrer"><img
      <a>https://alclenice.github.io/app-Alclenice.github.io/</a>                                                                         
-src="https://img.shields.io/github/followers/Alclenice?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a src="https://img.shields.io/github/followers/Alclenice?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -28,6 +28,11 @@ src="https://img.shields.io/github/followers/Alclenice?logo=github&style=for-the
 </p>
 
 
+
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Alclenice"><img src="https://github-readme-stats.vercel.app/api?username=Alclenice&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Alclenice's GitHub stats" /></a>
 
 <a href="https://www.github.com/Alclenice" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Alclenice?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
