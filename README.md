@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 full Stack Software Engineering Developer
 ------------------------------
 
-I am a software engineering developer who loves HTML, css with javascript and .net also mulesoft, neptune, PowerApps much more.
+I am a software developer who loves hard and soft code and love to challange my selves and learning new things much more.
 
 * 🌍  I'm based in Dublin City
 * ✉️  You can contact me at [limaclau777@gmail.com](mailto:limaclau777@gmail.com)
-* 🧠  I'm learning mulesoft and neptune
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I Am Cleo, Tell Everyone
+* 🧠  I'm learning next.jsx
+* 🤝  I'm open to collaborating  on Projects
+* ⚡  I am Cleo, Tell Everyone
 
 <a href="https://www.github.com/Alclenice" target="_blank" rel="noreferrer"><img
      <a>https://alclenice.github.io/app-Alclenice.github.io/</a>                                                                         
