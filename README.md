@@ -13,7 +13,8 @@ I am a software developer who loves hard and soft code and love to challange my 
 * ⚡  I am Cleo, Tell Everyone
 
 <a href="https://www.github.com/Alclenice" target="_blank" rel="noreferrer"><img
-     <a>https://alclenice.github.io/app-Alclenice.github.io/</a>                                                                         
+     <a>https://alclenice.github.io/app-Alclenice.github.io/</a> 
+     <a>https://www.linkedin.com/in/cléo-murphy-71b431103/</a>  
 <a src="https://img.shields.io/github/followers/Alclenice?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <a href="https://www.github.com/Alclenice" target="_blank" rel="noreferrer"><img
